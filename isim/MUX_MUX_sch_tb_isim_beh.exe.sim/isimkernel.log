@@ -1,0 +1,35 @@
+Command line:
+   MUX_MUX_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59294
+
+Mon Sep 13 19:32:48 2021
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.9 Meg
+
+ Total Signals          : 70
+ Total Nets             : 38
+ Total Signal Drivers   : 13
+ Total Blocks           : 12
+ Total Primitive Blocks : 10
+ Total Processes        : 8
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 521
+Total Line Count : 72
+
+** Failure:Simulation Finished
+User(VHDL) Code Called Simulation Stop
+In process MUX_tb.vhd:tb 
+ 
+
+
+ Total Simulation Time: 0.328125 sec
+
+ Current Memory Usage: 4679.04 Meg
+
+Mon Sep 13 19:39:25 2021
+
